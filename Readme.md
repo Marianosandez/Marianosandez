@@ -1,4 +1,14 @@
-**HOLA! BIENVENIDOS!**
 
 
-Luego de muchos años de trabajo en otra área descubrí lo mucho que disfruto la programación, por lo que decidí realizar un Bootcamp intensivo de 3 meses para potenciar mi aprendizaje. Aprendo rápido, disfruto resolviendo problemas y aplicando la lógica. Tengo muchas ganas de crecer en el mundo IT y estyo buscando oportunidades para ello. Te invito a que veas los proyectos que realice durante el bootcamp!
+## WELCOME!
+
+After several years working in a different career I discovered how much I enjoy programming, so I decided to enrole in an intensive Bootcamp which lasted 3 months with the goal of boosting my  technical skills. I'm a fast learner that enjoys problem-solving by applying logic and a goal oriented person.
+
+I'm eager to grow in the IT world, actively looking for chances to succeed in this objective. I inivite you to check the pojects that I made during my bootcamp 
+
+
+* [BlackCat E-commerce](https://github.com/Marianosandez?tab=repositories&q=&type=public&language=&sort=#:~:text=Star-,E%2DCommerce,-Public)
+* [TMDB](https://github.com/Marianosandez/TMDB-v1)
+* [WOW Magazine](https://github.com/Marianosandez/WOW-Magazine-frontend)
+* [WOW Magazine backend](https://github.com/Marianosandez/WOW-Magazine-backend)
+* [WOW Magazine CRUD](https://github.com/Marianosandez/ABM-WOW-Mag)
